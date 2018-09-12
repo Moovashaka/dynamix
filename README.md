@@ -1,10 +1,3 @@
-# React-Static - Basic Example
+# Dynamix
 
-This example is the most basic version of react-static available. It includes:
-- Babel
-- CSS imports
-- Image imports
-- File imports
-- Automatic Routing
-
-To get started, run `react-static create` and use the `basic` template.
+This has been created to demonstrate the dynamic routing capabilities of a single-page WebApp
